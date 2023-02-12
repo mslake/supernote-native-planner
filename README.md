@@ -5,6 +5,12 @@ Supernote currently does not support full note taking capabilities within a link
 
 I have included a planner.note template to get started.  For those looking to improve on this, I included the layered GIMP files and .png template files.
 
+To do:
+- Clean up the link handwriting
+- 2024 version
+- Weekly links
+- Daily links
+
 A sample of a daily copy / paste page might look like this, with static quick links to other project notes:
 
 ![20230212_121153](https://user-images.githubusercontent.com/31966101/218335223-89b6a22e-b979-42f1-9767-dee5c167127d.png)
