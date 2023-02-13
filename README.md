@@ -7,6 +7,7 @@ I have included a planner.note template to get started.  For those looking to im
 
 To do:
 - Clean up the link handwriting
+- Static links to calendar sections from the daily note
 - 2024 version
 - Weekly links
 - Daily links
