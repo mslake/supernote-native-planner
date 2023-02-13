@@ -3,9 +3,11 @@ A native .note planner for Supernote A5X e-ink tablet
 
 Supernote currently does not support full note taking capabilities within a linked PDF planner document.  This project is to create a native .note template that is linked as a functional planner.  The year, quarter and month pages of the note are all cross linked.  A daily template page is created for each month that can be copied and pasted as a new day to maintain links.  Titles on the daily pages can build a robust table of contents.
 
-I have included a planner.note template to get started.  For those looking to improve on this, I included the layered GIMP files and .png template files.
+I have included a planner.note template to get started.  For those looking to improve on this, I included the layered GIMP files and .png template files. 
 
-A sample of a daily copy / paste page might look like this, with static quick links to other project notes:
+A video of how to use a copy/paste page template.  https://youtu.be/SOFWEBbJQW4
+
+A sample of a daily copy / paste page might look like this, with static quick links to other project notes.  The static links can be renamed using the GIMP file:
 
 ![20230213_100440](https://user-images.githubusercontent.com/31966101/218544395-44d5cc66-993d-4bd4-9eb5-b9baa6d1212f.png)
 
